@@ -1,0 +1,6 @@
+- Ahoj! Jsem Daniel Rosa (Madelyn) a jsem 15 letý kluk, který se zajímá o IT (Převažně programování).
+- Chci studovat IT, ale než se k tomu dostanu, tak se alespoň učím něco sám pro sebe pomocí internetu
+- Mám v plánu zde posílat nějaké ze svých projektů.
+- Aktuálně se učím základy jazyků C, C# a Python.
+- Budu moc rád za vaše připomínky a hodnocení mé práce, kterou zde budu sdílet.
+- Přeji vám všem krásný den! :D
