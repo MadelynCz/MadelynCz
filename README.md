@@ -1,4 +1,4 @@
-- Ahoj! Jsem Daniel Rosa a jsem 15 letý kluk, který se zajímá o IT (Převažně programování).
+- Ahoj! Jsem Daniel Rosa a jsem 15 letý kluk, který se zajímá o IT (Převážně programování).
 - Chci studovat IT, ale než se k tomu dostanu, tak se alespoň učím něco sám pro sebe pomocí internetu
 - Mám v plánu zde posílat nějaké ze svých projektů.
 - Aktuálně se učím základy jazyků C, C# a Python.
